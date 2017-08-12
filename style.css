@@ -1,0 +1,77 @@
+
+h1 {color: black; margin-left: 30px; margin-right: 30px} 
+h1 h2 {color: black;}
+h1 h3 {color: white;}
+h1 h4 {color: white;}
+body {background-color: mediumpurple;
+  font-family: :Lato, 'Helvetica Neue', Arial, Helvetica,sans-serif;
+  margin-left: 25px; margin-right: 25px
+    
+}
+
+
+
+.box2 {background-color: white; padding:20px; margin: 10px; }
+
+.box3 {background-color:  white; padding:20px; margin: 10px; color: white;}
+
+.box4 {background-color : white; padding:20px;  margin: 10px;}
+
+
+
+
+.box6{background-color: #60ffff; padding:20px; border: 3px solid purple; margin: 10px; margin-bottom: 500px;}
+body {
+  ..
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.down {
+  margin-top: 100px;
+
+}
+
+.website{
+  padding-left: %;
+  padding-right: 20%;
+  padding-top: 50px;
+}
+
+.banner{
+  background-image: url(https://pbs.twimg.com/media/Ce7io99XIAALgCw.jpg);
+  margin-top: 40px;
+width: 1170;
+  height: 300px;
+}
+
+.white{
+  color: white;
+}
+.five{
+ padding-left: 50px;
+}
+
+.footer {
+  color: white;
+  height: 50px;
+  width: 105%;
+  padding: 10px;
+  background-color: purple;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.smaller {
+  height: 200px;
+    width : 250px;
+}
+.down4 {
+  margin: 10px
+}
+
+#map {
+  width: 100%;
+}
+.upper{
+  margin: 10px
+}
